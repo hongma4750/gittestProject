@@ -70,24 +70,7 @@
 
 
 
-<%!
-   public void gitTest(){
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      System.out.println("김홍민");
-      
+<%!      
 	public void gitTest1(){
 		System.out.println("봄이");
 		System.out.println("봄이");
@@ -125,14 +108,14 @@
 
 <%
 	String str1;
-String str1;
-String str1;
-String str1;
-String str1;
-String str1;
-String str1;
-String str1;
-String str1;
+String str11;
+String str2;
+String str3;
+String str4;
+String str5;
+String str6;
+String str7;
+String str8;
 
 
 %>
