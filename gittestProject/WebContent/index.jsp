@@ -41,5 +41,45 @@
       
 }
 %>
+
+
+
+
+
+
+<%!
+   public void gitTest(){
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      System.out.println("김홍민");
+      
+}
+%>
+
+<%
+	String str1;
+String str1;
+String str1;
+String str1;
+String str1;
+String str1;
+String str1;
+String str1;
+String str1;
+
+
+%>
 </body>
 </html>
