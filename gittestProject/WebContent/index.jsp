@@ -42,22 +42,37 @@
 }
 %>
 <%!
-	public void gitTest(){
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
-		System.out.println("김홍민");
+	public void gitTest1(){
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		System.out.println("봄이");
+		
+		
 		
 }
 %>
