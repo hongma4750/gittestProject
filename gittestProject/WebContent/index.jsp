@@ -15,7 +15,8 @@
 
 브랜치 마스터 테스트1
 
-
+add to index 이후 작업~~~~
+add to index 이후 작업~~~~
 
 하이하이
 하이하이
@@ -70,7 +71,7 @@
 
 
 
-<%!
+<%!      
    public void gitTest(){
       System.out.println("김홍민");
       System.out.println("김홍민");
@@ -125,16 +126,58 @@
 
 <%
 	String str1;
-String str1;
-String str1;
-String str1;
-String str1;
-String str1;
-String str1;
-String str1;
-String str1;
+String str11;
+String str2;
+String str3;
+String str4;
+String str5;
+String str6;
+String str7;
+String str8;
 
 
 %>
+
+김홍민
+김홍민
+봄이봄이봄이
+김홍민
+김홍민
+김홍민
+
+봄이봄이김홍민
+김홍민
+김홍민
+김홍민
+봄이봄이봄이
+김홍민
+김홍민
+김홍민
+봄이
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+김홍민
+
 </body>
 </html>
