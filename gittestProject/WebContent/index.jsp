@@ -41,6 +41,12 @@
       
 }
 %>
+
+
+
+
+
+
 <%!
 	public void gitTest1(){
 		System.out.println("봄이");
@@ -75,6 +81,20 @@
 		
 		
 }
+%>
+
+<%
+	String str1;
+String str1;
+String str1;
+String str1;
+String str1;
+String str1;
+String str1;
+String str1;
+String str1;
+
+
 %>
 </body>
 </html>
