@@ -14,5 +14,25 @@
 여기는 브랜치 홍마 테스트
 
 브랜치 마스터 테스트1
+<%!
+	public void gitTest(){
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		System.out.println("김홍민");
+		
+}
+%>
 </body>
 </html>
